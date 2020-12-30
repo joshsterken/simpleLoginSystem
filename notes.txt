@@ -1,0 +1,1 @@
+-why is the variable password in the while loop accessible outside of the while loop??
